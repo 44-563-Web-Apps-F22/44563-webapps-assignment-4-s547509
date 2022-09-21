@@ -1,0 +1,52 @@
+body{
+    background-color: lightblue;
+}
+
+p:hover{
+    background-color: rgb(139, 150, 155);
+}
+
+h1{
+    color: rgb(40, 51, 210);
+}
+
+h3{
+    color: rgb(243, 31, 52);
+}
+
+h4{
+    color: rgb(41, 205, 16);
+}
+
+h5{
+    color: rgb(231, 20, 185);
+}
+
+h5{
+    font-size: 16px;
+}
+
+p{
+    color: rgb(14, 10, 45); 
+}
+
+span{
+    color: rgb(35, 15, 183);
+}
+
+span:hover{
+    background-color: rgb(180, 178, 198);
+}
+
+h3{
+    font-style: italic;
+}
+
+h4{
+    font-style:inherit;
+}
+
+.Alone{
+    font: size 12px;
+    color:rgb(243, 31, 52);
+}
