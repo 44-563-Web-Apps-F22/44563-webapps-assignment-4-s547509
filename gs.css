@@ -50,3 +50,24 @@ h4{
     font: size 12px;
     color:rgb(243, 31, 52);
 }
+
+table{
+    border: 3px solid brown;
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+    color: cadetblue;
+
+}
+
+th{
+    border: 3px solid rgb(114, 10, 64);
+    text-align: left;
+
+}
+
+td{
+
+    border: 3px solid black;
+    text-align: left;
+}
