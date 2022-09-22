@@ -1,32 +1,27 @@
 .speech{
-    color:black;font-size:15px;
-    font-family: 'Times New Roman', Times, serif;
-}
-
+    color:black;
+    font-size:15px;
+    font-family: 'Times New Roman', Times, serif;}
 .song{
     font-size: 20px;
     color:black;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 .direction{
     font: size 18px;
     color:black;
-    background-color: rgb(152, 216, 154);
-}
-
+    background-color: rgb(152, 216, 154);}
 .name{
     font-size: 16px;
     color:black;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
+    font-family:Georgia, 'Times New Roman', Times, serif;}
 .direction:hover{
     color:yellow;
     background-color:
-    rgb(147, 20, 117);
-}
-
+    rgb(147, 20, 117);}
+.CHORUS{
+    font-size: 16px;
+    color:black;
+    font-style:inherit;}
 h1{
     color: rgb(40, 51, 210);
 }
